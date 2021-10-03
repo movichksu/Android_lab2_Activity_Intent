@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Activity &amp; Intent</string>
+    <string name="question">Question</string>
+    <string name="ask_a_question">Ask a question:</string>
+    <string name="the_last_answer">The last answer:</string>
+    <string name="submit">Submit</string>
+    <string name="answer">Answer</string>
+    <string name="cancel">Cancel</string>
+    <string name="operation_cancelled">The operation was cancelled</string>
+</resources>
